@@ -1,2 +1,2 @@
-# hello-world
-1st repository
+# Information Theory and Coding
+Note and Codes for Information Theory and Coding
